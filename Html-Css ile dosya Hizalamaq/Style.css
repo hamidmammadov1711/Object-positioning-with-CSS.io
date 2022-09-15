@@ -1,0 +1,251 @@
+
+* {
+	box-sizing: border-box
+}
+body {
+	background-color: #F694C1;
+}
+
+h1 {
+	text-align: center;
+}
+.wrap {
+	width: auto;
+	height: auto;
+	margin: 20px;
+}
+.sec1 {
+	background-color:darkgray;
+	border: 3px solid black;
+	width: 30%;
+	margin-right: 10px;
+	margin: 1%;
+	padding: 0;
+	float: left;
+}
+.sec2 {
+	background-color: darkgray;
+	border: 3px solid black;	
+	width: 30%;
+	margin-right: 10px;
+	margin: 1%;
+	padding: 0;
+	float: left;
+}
+.sec3 {
+	background-color: darkgray;
+	border: 3px solid black;
+	width: 30%;
+	margin: 1%;
+	margin-right: 10px;
+	padding: 0;
+	float: left;
+}
+#p1 {
+	background-color: coral;
+	color: black;
+	border: 1.5px solid black;
+	text-align: center;
+	margin-top: 0;
+	margin-left: 75%;
+}
+#p2 {
+	background-color: crimson;
+	color: black;
+	border: 1.5px solid black;
+	text-align: center;
+	margin-top: 0;
+	margin-left: 75%;
+}
+#p3 {
+	background-color: black;
+	color: White;
+	border: 1.5px solid black;
+	text-align: center;
+	margin-top: 0;
+	margin-left: 75%;	
+}
+
+
+@media all and (min-width: 992px) {
+	.sec1 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 30%;
+			margin-right: 10px;
+			margin: 1%;
+			padding: 0;
+			float: left;
+		}
+	
+		.sec2 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 30%;
+			margin-right: 10px;
+			margin: 1%;
+			padding: 0;
+			float: left;
+		}
+	
+		.sec3 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 30%;
+			margin: 1%;
+			margin-right: 10px;
+			padding: 0;
+			float: left;
+		}
+	
+		#p1 {
+			background-color: coral;
+			color: black;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+	
+		#p2 {
+			background-color: crimson;
+			color: black;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+	
+		#p3 {
+			background-color: black;
+			color: White;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+}
+
+@media all and (max-width:768px) {
+	.sec1 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 45%;
+			margin-right: 20px;
+			margin: 1%;
+			padding: 0;
+			float: left;
+		}
+	
+		.sec2 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 45%;
+			margin-right: 20px;
+			margin: 1%;
+			padding: 0;
+			float: left;
+		}
+	
+		.sec3 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 92%;
+			margin: 1%;
+			margin-right: 10px;
+			padding: 0;
+			float: left;
+		}
+	
+		#p1 {
+			background-color: coral;
+			color: black;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+	
+		#p2 {
+			background-color: crimson;
+			color: black;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+	
+		#p3 {
+			background-color: black;
+			color: White;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+		body {
+			background-color: #CEE497;
+		}
+}
+
+@media all and (max-width:600px) {
+	.sec1 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 100%;
+			margin-right: 20px;
+			margin: 1%;
+			padding: 0;
+			float: left;
+		}
+	
+		.sec2 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 100%;
+			margin-right: 20px;
+			margin: 1%;
+			padding: 0;
+			float: left;
+		}
+	
+		.sec3 {
+			background-color: darkgray;
+			border: 3px solid black;
+			width: 100%;
+			margin: 1%;
+			margin-right: 10px;
+			padding: 0;
+			float: left;
+		}
+	
+		#p1 {
+			background-color: coral;
+			color: black;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+	
+		#p2 {
+			background-color: crimson;
+			color: black;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+	
+		#p3 {
+			background-color: black;
+			color: White;
+			border: 1.5px solid black;
+			text-align: center;
+			margin-top: 0;
+			margin-left: 75%;
+		}
+		body {
+			background-color: #7844E3;
+		}
+}
